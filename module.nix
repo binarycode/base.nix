@@ -1,4 +1,4 @@
-{ pkgs, ... }: {
+{pkgs, ...}: {
   nix = {
     settings = {
       # automatically link duplicate files to save space
